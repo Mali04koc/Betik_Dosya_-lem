@@ -1,0 +1,11 @@
+# Basit Rapor
+
+- Geçerli kayıt sayısı: 5
+- Ortalama yaş: 30
+
+## Şehir dağılımı
+- Ankara: 1
+- Trabzon: 2
+- İstanbul: 1
+- İzmir: 1
+
